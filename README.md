@@ -19,7 +19,7 @@ Esse é um projeto de automação em Python para serviços de registro de estoqu
 # Funcionalidades do Projeto (automação) :hammer:
 
  - Passo a passo do projeto:
- - 
+
  `-Passo 1:` Entrar no sistema da empresa 
    ( site fictício de exemplo: https://dlp.hashtagtreinamentos.com/python/intensivao/login );
    
